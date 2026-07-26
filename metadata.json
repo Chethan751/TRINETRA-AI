@@ -1,0 +1,6 @@
+{
+  "name": "TRINETRA AI | Tactical Command Center",
+  "description": "Tactical command center for Karnataka State Police Datathon 2026 featuring bilingual AI, 3D crime spatial analytics, offender network graphs, FIR anomaly monitoring, and OSINT search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+{
+  "project_name": "TRINETRA-AI",
+  "client": {
+    "source": "client/dist"
+  },
+  "functions": {
+    "targets": [
+      "trinetra_core"
+    ]
+  }
+}
